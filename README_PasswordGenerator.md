@@ -1,6 +1,10 @@
 # 03 JavaScript: Password Generator
 
+Screenshot of Password Generator Application:
 
+Link of Password Generator Application:
+
+Description of Script.JS File:
 
 ## Your Task
 
